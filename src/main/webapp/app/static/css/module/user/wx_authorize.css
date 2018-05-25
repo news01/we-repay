@@ -1,0 +1,36 @@
+.pagetitle{
+	font-size: 1.3rem;
+    color: #10c55b;
+    margin: 2rem 0;
+}
+.Failure_icon{
+	display: inline-block;
+	width: 4.9583rem;
+	height:4.9583rem;
+	margin-left:1rem;
+	vertical-align: middle;
+	background-repeat: no-repeat;
+/* 	background-image: url(../../../images/module/@2x/Failure_icon.png); */
+}
+.pay_status_text{
+	font-size:0.75rem;
+	color:#10c55b
+}
+#carryOut{
+	border:none;
+	width:7.75rem;
+	height: 1.875rem;
+	font-size:0.75rem;
+	margin: 0px auto;
+	margin-top:2rem;
+	background-color: #10c55b;
+	color: white;
+	line-height: 1.875rem;
+	border-radius: 0.125rem;
+}
+#carryOut:disabled{
+	background-color: #d6d6d6;
+}
+.child_title_div{
+	background-color: #FCFCFC;
+}

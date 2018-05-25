@@ -1,0 +1,16 @@
+/*表格样式*/
+.datagrid-row,.datagrid-header-row{
+	height:40px;
+}
+
+
+.detail-btn{
+	background-color: #10c55b;
+	color: white;
+	cursor:pointer;
+	padding: 0px 10px;
+	line-height: 28px;
+	height: 28px;
+	border: none;
+	border-radius: 3px;
+}

@@ -1,0 +1,43 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	height: 100%;
+	width: 100%;
+	background-color: white;
+}
+
+.record_container{
+	padding: 0.2rem 0.7rem;
+	overflow: hidden;
+}
+.record_content{
+	border-bottom: 0.02rem solid #d7d6d6;
+	overflow: hidden;
+}
+.record_desc{
+	width: 100%;
+    padding-right: 2.5rem;
+    margin-right: -2.5rem;
+    text-align: initial;
+}
+.record_desc>div{
+	height: 1.6rem;
+    line-height: 1.6rem;
+}
+.record_amount>div{
+	height: 3.2rem;
+    line-height: 3.2rem;
+    width: 2.5rem;
+}
+.span_font{
+    font-size: 0.65rem;
+    font-weight: bold;
+}
+.more {
+	height: 1.54167rem;
+	/* background-color: #ebebeb; */
+	line-height: 1.54167rem;
+	font-size: 0.45833rem;
+	margin-top: -1px;
+	color: #c1bfbf;
+}

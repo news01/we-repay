@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+	<button>
+		<name>客家人</name>
+		<!-- <sub_button>
+			<type>view</type>
+			<name>人文客家</name>
+			<url>https://baike.baidu.com/item/客家人/40518?fr=aladdin</url>
+		</sub_button>
+		<sub_button>
+			<type>view</type>
+			<name>客家深圳</name>
+			<url>https://baike.baidu.com/item/深圳客家人/16697813?fr=aladdin</url>
+		</sub_button>
+		<sub_button>
+			<type>view</type>
+			<name>梅州客家</name>
+			<url>https://baike.baidu.com/item/梅州客家人/4557665?fr=aladdin</url>
+		</sub_button> -->
+		<sub_button>
+			<type>view</type>
+			<name>同乡会章程</name>
+			<url>/user/toRegulations.do</url>
+		</sub_button>
+	</button>
+	<button>
+		<name>最新资讯</name>
+		<sub_button>
+			<type>view</type>
+			<name>公告牌</name>
+			<url>/user/tobillboard.do</url>
+		</sub_button>
+		<!-- <sub_button>
+			<type>view</type>
+			<name>组织机构</name>
+			<url>/user/toinstitutional.do</url>
+		</sub_button> -->
+	</button>
+	<button>
+		<name>会员管理</name>
+		<!-- <sub_button>
+			<type>view</type>
+			<name>会费缴付</name>
+			<url>/repay/torepay.do</url>
+		</sub_button> -->
+		<sub_button>
+			<type>view</type>
+			<name>热心赞助</name>
+			<url>/repay/towarmsupport.do</url>
+		</sub_button>
+		<sub_button>
+			<type>view</type>
+			<name>会费缴付</name>
+			<url>/repay/torepayindex.do</url>
+		</sub_button>
+		<sub_button>
+			<type>view</type>
+			<name>缴费记录</name>
+			<url>/repay/tomyrepayrecord_myself.do</url>
+		</sub_button>
+		<sub_button>
+			<type>view</type>
+			<name>个人中心</name>
+			<url>/user/touserinfo.do</url>
+		</sub_button>
+		<!-- <sub_button>
+			<type>view</type>
+			<name>会员注册</name>
+			<url>/user/toComplete_information.do</url>
+			<url>/user/touserinfo.do?param=2</url>
+		</sub_button> -->
+	</button>
+</menu>

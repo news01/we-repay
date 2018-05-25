@@ -1,0 +1,30 @@
+	
+#module_index_menu{
+	width: 150px;
+	height: 100%;
+	float: left;
+	background-color: #2d3134;
+}
+#module_index_menu li{
+	height: 52px;
+	line-height: 52px;
+	cursor:pointer;
+	width: 100%;
+	color: #c4c4c4;
+	position: relative;
+	text-align: center;
+}
+#module_index_menu .active {
+	color: #10c55b;
+}
+#module_index_menu .hover {
+	color: #10c55b;
+	}
+#container_center{
+	float: left;
+	padding: 14px 14px 14px 14px;
+	height: 100%;
+	width:80%;
+	overflow: hidden;
+   
+}
